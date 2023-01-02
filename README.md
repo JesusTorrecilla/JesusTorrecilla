@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [jesustorrecilla-portfolio.tech](jesustorrecilla-portfolio.tech)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about: **React**, **Javascript**
 
-- 📫 How to reach me **jesus.t13@hotmail.com**
+- 📫 How to reach me: **jesus.t13@hotmail.com**, **+549 2613359300**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
